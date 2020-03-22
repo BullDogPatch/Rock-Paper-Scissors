@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
-Created with CodeSandbox
+Created with CodeSandbox,
 It is not respinsive yet
